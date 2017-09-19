@@ -3,3 +3,4 @@ I have a better understanding of how components interact and tie into the code t
 
 To use, launch the app with Android Studio on Android 6.0 (Marshmallow) and select the predicted outcome for the roll for each player. The app will then roll and output the results in a new screen.
 
+Note: Roullete was definitely not a spelling mistake, in the game universe of the TinyApp, the classic game is indeed called Roullete. 
